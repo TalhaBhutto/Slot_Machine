@@ -36,6 +36,12 @@
     transform: rotate(360deg);
   }
 }
+*{
+  box-sizing: border-box;
+  padding: 0%;
+  margin: 0%;
+  background-color: #d2dbdd;
+}
 .Heading_Style{
   padding: 30px 0;
   text-align: center;
