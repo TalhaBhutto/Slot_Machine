@@ -6,7 +6,7 @@ function App() {
   return (
     <>
       <h1 className="Heading_Style">🎰 Welcome to <span style={{fontWeight:"bold"}}> Slot Machine Game</span> 🎰</h1>
-      <div>
+      <div className="slots">
       <SlotM x="😄" y="😄" z="😄" />
       <SlotM x="😄" y="❤️" z="🍌" />
       <SlotM x="🍌" y="❤️" z="🍌"/>
